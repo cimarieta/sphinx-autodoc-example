@@ -56,7 +56,7 @@ import sys
 sys.path.insert(0, os.path.abspath('../../src'))
 ```
 
-## Using vim-pydocstring
+## Using [vim-pydocstring](https://github.com/heavenshell/vim-pydocstring)
 
 * Add `Plugin 'heavenshell/vim-pydocstring'` to the list of vundle packages
 
